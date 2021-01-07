@@ -20,9 +20,9 @@ public class Ejemplo6 {
         System.out.printf("Valor de variable suma (main): %d\n", suma);
         obtenerSuma(10, 30);
         obtenerSumaDos();
-        
+       // System.out.printf("Valor de variable suma (main): %d\n", suma);
     }
-        
+    
     public static void obtenerSuma(int a, int b){
         
         suma = a + b;
